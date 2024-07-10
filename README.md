@@ -16,4 +16,11 @@ The dataset addresses the scarcity of labeled resources for Moroccan Darija and 
 
 ## Usage
 To access the dataset, download it from the following link:
-[Dataset page in Mendeley](https://data.mendeley.com/datasets/2y4m97b7dc/3)
+[Dataset page in Mendeley](https://data.mendeley.com/datasets/2y4m97b7dc/3).
+
+## Citation
+
+If you use this dataset in your research, please cite it as follows:
+
+`Ibrahimi, Anass; Mourhir, Asmaa (2024), “Moroccan Darija Offensive Language Detection Dataset”, Mendeley Data, V3, doi: 10.17632/2y4m97b7dc.3`
+
